@@ -16,3 +16,6 @@ The text for the event is saved in local storage once the save button for that t
 The stored events endure when the page is refreshed.
 # License
 MIT
+# Screenshot
+<img width="1512" alt="Screenshot 2023-07-19 at 8 31 12 PM" src="https://github.com/brycehadl/stat-sheet/assets/133932050/025efe5f-602a-4307-833a-da1e704882ab">
+
