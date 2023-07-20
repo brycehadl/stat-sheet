@@ -5,8 +5,8 @@ Clone or download the repository
 View the main page (index.html) by using your browser.
 To view all coding, use a text editor; Visual Studio Coding is suggested.
 # Websites
-SSH:
-HTTPS:
+SSH: git@github.com:brycehadl/stat-sheet.git
+HTTPS: https://github.com/brycehadl/stat-sheet.git
 # Functionality
 The day of the week is shown at the top of the calendar when the planner is opened.
 The user gets shown time blocks for regular business hours (from 9AM to 5PM) as they scroll down.
