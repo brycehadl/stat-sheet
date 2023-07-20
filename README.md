@@ -10,7 +10,7 @@ HTTPS: https://github.com/brycehadl/stat-sheet.git
 # Functionality
 The day of the week is shown at the top of the calendar when the planner is opened.
 The user gets shown time blocks for regular business hours (from 9AM to 5PM) as they scroll down.
-Each time block is color-coded when the viewer displays the time blocks for that day to show whether it is in the past, present, or future Past Present #69AFBF Future
+Each time block is color-coded when the viewer displays the time blocks for that day to show whether it is in the past, present, or future.
 The user may then enter an event by clicking into a time block.
 The text for the event is saved in local storage once the save button for that time block is clicked.
 The stored events endure when the page is refreshed.
